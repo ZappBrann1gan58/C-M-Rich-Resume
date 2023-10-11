@@ -1,0 +1,83 @@
+.mrich {
+    border-radius: 50%;
+}
+
+#statement {
+    background-color: #023e8a;
+    color: #caf0f8;
+}
+
+h1 {
+    color: #caf0f8;
+}
+
+#experience {
+    background-color: #caf0f8;
+}
+
+#experience h2 {
+    color: #023e8a;
+}
+
+.info {
+    color: #023e8a;
+}
+
+.name {
+    background-color: #023e8a;
+    color: #caf0f8;
+}
+
+#skills {
+    background-color: #023e8a;
+    color: #caf0f8;
+}
+
+#contact {
+    background-color: #023e8a;
+    color: #caf0f8;
+}
+
+body {
+    background-color: #caf0f8;
+}
+
+#about {
+    background-color: #caf0f8;
+    color: #023e8a;
+}
+
+.navigation {
+    background-color: #caf0f8;
+}
+
+.collage:hover {
+    -moz-transform: scale(3);
+    -webkit-transform: scale(3);
+    -o-transform: scale(3);
+    -ms-transform: scale(3);
+    -webkit-transform: scale(3);
+    transform: scale(3);
+
+    -webkit-transition: transform 2.05s ease-in-out;
+    -moz-transition:transform 2.05s ease-in-out;
+    -ms-transition:transform 2.05s ease-in-out;
+}
+
+.collage {
+    border: 8px solid #caf0f8;
+    padding: 0;
+}
+
+#education {
+    color: #023e8a;
+}
+
+#footer {
+    background-color: #023e8a;
+    color: #caf0f8;
+}
+
+body {
+    margin-bottom: 0;
+}
