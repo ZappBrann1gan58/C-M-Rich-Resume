@@ -29,13 +29,13 @@ h1 {
 }
 
 #skills {
-    background-color: #023e8a;
-    color: #caf0f8;
+    color: #023e8a;
+    background-color: #caf0f8;
 }
 
 #contact {
-    background-color: #023e8a;
-    color: #caf0f8;
+    color: #023e8a;
+    background-color: #caf0f8;
 }
 
 body {
@@ -43,8 +43,8 @@ body {
 }
 
 #about {
-    background-color: #caf0f8;
-    color: #023e8a;
+    background-color: #023e8a;
+    color: #caf0f8;
 }
 
 .navigation {
@@ -70,14 +70,20 @@ body {
 }
 
 #education {
-    color: #023e8a;
-}
-
-#footer {
     background-color: #023e8a;
     color: #caf0f8;
 }
 
-body {
-    margin-bottom: 0;
+#footer {
+    background-color: #caf0f8;
+    color: #023e8a;
+}
+
+#projects {
+    background-color: #023e8a;
+    color: #caf0f8;
+}
+
+.wht {
+    color: white;
 }
